@@ -9,14 +9,14 @@ Your music, always ready: a sheet music reader for Android made for playing live
 Fast, dark when needed, and fully offline. Import PDFs or images, organise your library, write on the page, build setlists and turn pages with Bluetooth pedals or the volume keys. Built with Kotlin, Jetpack Compose and Material 3.
 
 <p align="center">
-  <img src="docs/screenshots/library.png" width="280" alt="Library">
-  <img src="docs/screenshots/viewer.png" width="280" alt="Score viewer with annotations">
-  <img src="docs/screenshots/setlists.png" width="280" alt="Setlist">
-  <img src="docs/screenshots/metronome.png" width="280" alt="Metronome">
-  <img src="docs/screenshots/settings.png" width="280" alt="Settings">
+  <img src="docs/screenshots/library.png" width="170" alt="Library">
+  <img src="docs/screenshots/viewer.png" width="170" alt="Score viewer with annotations">
+  <img src="docs/screenshots/setlists.png" width="170" alt="Setlist">
+  <img src="docs/screenshots/metronome.png" width="170" alt="Metronome">
+  <img src="docs/screenshots/settings.png" width="170" alt="Settings">
 </p>
 
-<p align="center"><em>Screenshots, with sample scores made for this project.</em></p>
+_Screenshots, with sample scores made for this project._
 
 ## Install
 

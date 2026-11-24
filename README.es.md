@@ -9,14 +9,14 @@ Tu música, siempre a punto: un lector de partituras para Android pensado para t
 Rápido, oscuro cuando hace falta y totalmente sin conexión. Importa PDF o imágenes, organiza la biblioteca, anota sobre el papel, crea listas de concierto y pasa página con pedales Bluetooth o teclas de volumen. Hecho con Kotlin, Jetpack Compose y Material 3.
 
 <p align="center">
-  <img src="docs/screenshots/library.png" width="280" alt="Biblioteca">
-  <img src="docs/screenshots/viewer.png" width="280" alt="Visor de partituras con anotaciones">
-  <img src="docs/screenshots/setlists.png" width="280" alt="Lista de concierto">
-  <img src="docs/screenshots/metronome.png" width="280" alt="Metrónomo">
-  <img src="docs/screenshots/settings.png" width="280" alt="Ajustes">
+  <img src="docs/screenshots/library.png" width="170" alt="Biblioteca">
+  <img src="docs/screenshots/viewer.png" width="170" alt="Visor de partituras con anotaciones">
+  <img src="docs/screenshots/setlists.png" width="170" alt="Lista de concierto">
+  <img src="docs/screenshots/metronome.png" width="170" alt="Metrónomo">
+  <img src="docs/screenshots/settings.png" width="170" alt="Ajustes">
 </p>
 
-<p align="center"><em>Capturas, con partituras de muestra hechas para este proyecto.</em></p>
+_Capturas, con partituras de muestra hechas para este proyecto._
 
 ## Instalar
 
