@@ -13,7 +13,7 @@ class ChordProAndCropTest {
         val song = parseChordPro(
             """
             {title: Cançó de prova}
-            {artist: Victor}
+            {artist: Vlarac}
             # a comment line that is not printed
             [G]Hola [D]món
             {soc}
@@ -24,7 +24,7 @@ class ChordProAndCropTest {
             """.trimIndent(),
         )
         assertEquals("Cançó de prova", song.title)
-        assertEquals("Victor", song.artist)
+        assertEquals("Vlarac", song.artist)
         assertEquals(
             listOf(
                 ChordLine("G    D", "Hola món"),
