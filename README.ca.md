@@ -8,6 +8,16 @@ La teva música, sempre a punt: un lector de partitures per a Android pensat per
 
 Ràpid, fosc quan cal i totalment fora de línia. Importa PDF o imatges, organitza la biblioteca, anota sobre el paper, crea llistes de concert i passa pàgina amb pedals Bluetooth o tecles de volum. Fet amb Kotlin, Jetpack Compose i Material 3.
 
+<p align="center">
+  <img src="docs/screenshots/library.png" width="280" alt="Biblioteca">
+  <img src="docs/screenshots/viewer.png" width="280" alt="Visor de partitures amb anotacions">
+  <img src="docs/screenshots/setlists.png" width="280" alt="Llista de concert">
+  <img src="docs/screenshots/metronome.png" width="280" alt="Metrònom">
+  <img src="docs/screenshots/settings.png" width="280" alt="Ajustos">
+</p>
+
+<p align="center"><em>Captures, amb partitures de mostra fetes per a aquest projecte.</em></p>
+
 ## Instal·lar
 
 Baixa l'APK de [Releases](../../releases) i obre'l a la tauleta. El primer cop, Android demana permís per instal·lar apps des del navegador.
